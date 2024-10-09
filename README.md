@@ -1,5 +1,5 @@
 # Welcome to my Profile
--  Hi, I’m @SkyAppend
+-  Hi, I’m SkyAppend
 -  I’m interested in create games
 -  Fun fact: I am a person
 -  Programming languages: GML Code;
