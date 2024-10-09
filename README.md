@@ -1,7 +1,7 @@
 # Welcome to my Profile
 -  Hi, I’m SkyAppend
 -  I’m interested in create games
--  Fun fact: i not have a "GOTY"
+-  Fun fact: i don't have a "GOTY"
 -  Programming languages: GML Code;
 <!---
 SkyAppend/SkyAppend is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
